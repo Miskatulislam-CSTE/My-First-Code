@@ -12,3 +12,5 @@ Loop: Programs using different types of loops (for, while, do-while).
 Pattern: Various shape and number patterns created using nested loops.
 
 Number Print: Programs related to printing various number sequences and series.
+Array c-program
+String c-program
